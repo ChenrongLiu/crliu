@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr.Chenrong Liu (刘晨容)"
+  name             : "Dr.Chenrong Liu(刘晨容)"
   avatar           : "profile.png"
-  bio              : "Lecture of Wenzhou University"
+  bio              : "Lecturer of Wenzhou University"
   location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
